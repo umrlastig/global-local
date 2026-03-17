@@ -24,8 +24,7 @@ Few initiatives adopt a back-and-forth or retroaction strategy. _Slave_ level(s)
 
 ### Extending AI models
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
-
+First, among the well-known AI generic model-centric issues, few are highly relevant in our context:
 - ⚗️🍨 Vanilla Jekyll starter kit  
   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
 - ⚗️🌲 Forestry starter kit  
@@ -39,11 +38,29 @@ To give you a running start I've put together some starter kits that you can dow
 - ⚗️🚀 Stackbit starter kit  
   [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
 
+* Handling unseen sources.
+* Federated and knowledge-based learning.
+* Handling domain shifts, domain generalization issues.
+* Mitigating bias transfer.
+* Estimating uncertainty and moving to interpretability.
+
 ### Real-world benchmarking and validation
+Heavily related to the previous point, key aspects are:
+* Consistent and muti-faceted benchmarks.
+* Spatially and temporally consistent reference data across data sources and extents for validation.
+* Handling genuine applications} (economics, history, social sciences) to help understanding complex cases.
 
 ### Adopting a user-centric perspective
+Pure predictive performance on mainstream data sources is over, which calls for:
+* Disantangling data producer, model designer, and end-user perspectives.
+* Adopting a critical analysis of the sources or a hermeneutics perspectives.
+* Quo vadis human-centric machine learning ?
+* Enforcing source diversity.
 
 ### Discoverability, and reuse of existing research
+Open models and data does not suffice to comply with FAIR principles.
+* Closing the gap in the discoverability and comparability of available benchmarks, models, and algorithms across research communities;
+* Improving the tools for providing curating and comparable research resources, and user feedbacks on such resources.
 
 ## Key references
 * Arribas-Bel, D., 2014. Accidental, open and everywhere: Emerging data sources for the understanding of cities.
