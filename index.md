@@ -7,17 +7,17 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years. The geospatial-related communities should now devote more research efforts in higher cross-fertilization, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications."
 ---
 
-In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years. The geospatial-related communities should now devote more research efforts in higher cross-fertilization, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications.
+In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years.
+The geospatial-related communities should now devote more research efforts in higher cross-fertilization, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications.
 
-{% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="arXiv paper ☕️" link="https://arxiv.org" color="#f68140" %} {% include button.html text="ISPRS Paper ⚗️" link="https://www.isprs.org" %}
 
-## Examples
+## Which limitations today ?
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
-
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+1. Insufficient and asymmetric exploitation of the various categories of data sources.
+Such exploitation depends on the application and the domain the contributors fall into. This is a community-based bias, where every community defines what is "auxiliary source" or "metadata". Each geographical extent and data source has its specific contribution but many approaches limit themselves to two of them and ignore the other ones. This narrows down their potential. It often comes from the fact that one spatial extent is often a master extent, from which the core information is extracted. The slave  one(s) is(are) only inserted for a specific step (supervision or alternative input source), without (i) being appropriately handled and (ii) retroaction loop, for the benefit of this slave extent.
+2. Limited two-way interactions.
+Few initiatives adopt a back-and-forth or retroaction strategy. Slave level(s)  can help improving the master one in terms of spatial, temporal, semantic information
 
 ## Installation
 
