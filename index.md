@@ -20,24 +20,15 @@ Such exploitation depends on the application and the domain the contributors fal
 **2. Limited two-way interactions.**
 Few initiatives adopt a back-and-forth or retroaction strategy. _Slave_ level(s)  can help improving the _master_ one in terms of spatial, temporal, semantic information. This can be cast into the _lifecycle data assessment_ or _critical analysis of the sources_ paradigms.
 
+## Main data sources
+dsds
+## Current interactions
+dsds
 ## Which lines of research ?
 
 ### :arrow_up: Extending AI models
 
 First, among the well-known AI generic model-centric issues, few are highly relevant in our context:
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
-
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
-
 * Handling unseen sources.
 * Federated and knowledge-based learning.
 * Handling domain shifts, domain generalization issues.
