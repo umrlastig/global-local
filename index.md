@@ -7,15 +7,15 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years. The geospatial-related communities should now devote more research efforts in higher cross-fertilization, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications."
 ---
 
-In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years.
-The geospatial-related communities should now devote more research efforts in higher cross-fertilization, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications.
+<p style="text-align: justify;">In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years.<br>
+The geospatial-related communities should now **devote more research efforts in higher cross-fertilization**, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications.</:p>
 
 <p style="text-align:center;">{% include button.html text="arXiv paper :page_facing_up:" link="https://arxiv.org" color="#FA0740" %} {% include button.html text="ISPRS Paper :globe_with_meridians:" link="https://www.isprs.org" color="#9CEDFF" %}</p>
 
 ## Which limitations today ?
 
 **1. Insufficient and asymmetric exploitation of the various categories of data sources.**
-Such exploitation depends on the application and the domain the contributors fall into. This is a community-based bias, where every community defines what is _auxiliary source_ or _metadata_. Each geographical extent and data source has its specific contribution but many approaches limit themselves to two of them and ignore the other ones. This narrows down their potential. It often comes from the fact that one spatial extent is often a _master_ extent, from which the core information is extracted. The _slave_  one(s) is(are) only inserted for a specific step (supervision or alternative input source), without (i) being appropriately handled and (ii) retroaction loop, for the benefit of this slave extent.
+Such exploitation depends on the application and the domain the contributors fall into. This is a community-based bias: every community defines what is _auxiliary source_. Each geographical extent and data source has its specific contribution. Many approaches limit themselves to two of them and narrow down the full potential. It often comes from the fact that one spatial extent is often a _master_ extent, from which the core information is extracted. The _slave_ one(s) is(are) only inserted for a specific step (supervision or alternative input source), without (i) being appropriately handled and (ii) retroaction loop, for the benefit of this slave extent.
 
 **2. Limited two-way interactions.**
 Few initiatives adopt a back-and-forth or retroaction strategy. _Slave_ level(s)  can help improving the _master_ one in terms of spatial, temporal, semantic information. This can be cast into the _lifecycle data assessment_ or _critical analysis of the sources_ paradigms.
