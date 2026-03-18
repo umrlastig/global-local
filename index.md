@@ -10,7 +10,7 @@ excerpt: "In a native multi-source world, a key issue is to adequately and optim
 In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years.
 The geospatial-related communities should now devote more research efforts in higher cross-fertilization, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications.
 
-<p style="text-align:center;">{% include button.html text="arXiv paper :page_facing_up:" link="https://arxiv.org" color="#FA0740" %} {% include button.html text="ISPRS Paper:globe_with_meridians:" link="https://www.isprs.org" color="#07B5FA" %}</p>
+<p style="text-align:center;">{% include button.html text="arXiv paper :page_facing_up:" link="https://arxiv.org" color="#FA0740" %} {% include button.html text="ISPRS Paper :globe_with_meridians:" link="https://www.isprs.org" color="#9CEDFF" %}</p>
 
 ## Which limitations today ?
 
@@ -62,7 +62,7 @@ Open models and data does not suffice to comply with FAIR principles.
 * Closing the gap in the discoverability and comparability of available benchmarks, models, and algorithms across research communities;
 * Improving the tools for providing curating and comparable research resources, and user feedbacks on such resources.
 
-## Key references
+## :book: Key references
 * Arribas-Bel, D., 2014. Accidental, open and everywhere: Emerging data sources for the understanding of cities.
 _Applied Geography_, 1, 45-53.
 * Baek, E., Park, K., Ko, J., hwan Oh, M., Gong, T., Kim, H.-S., 2025. AI should sense better, not just scale bigger:
