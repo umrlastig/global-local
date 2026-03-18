@@ -7,8 +7,8 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years. The geospatial-related communities should now devote more research efforts in higher cross-fertilization, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications."
 ---
 
-<p style="text-align: justify;">In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years.<br>
-The geospatial-related communities should now **devote more research efforts in higher cross-fertilization**, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications.</:p>
+In a native multi-source world, a key issue is to adequately and optimally exploit all available geospatial, even rare, sources. Community and discipline bias exist and siloed reasoning has dominated for numerous years.<br>
+The geospatial-related communities should now **devote more research efforts in higher cross-fertilization**, barely documented fusion configurations and how to take advantage of main outputs of other communities or disciplines for key applications.
 
 <p style="text-align:center;">{% include button.html text="arXiv paper :page_facing_up:" link="https://arxiv.org" color="#FA0740" %} {% include button.html text="ISPRS Paper :globe_with_meridians:" link="https://www.isprs.org" color="#9CEDFF" %}</p>
 
