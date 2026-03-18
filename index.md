@@ -20,11 +20,8 @@ Such exploitation depends on the application and the domain the contributors fal
 **2. Limited two-way interactions.**
 Few initiatives adopt a back-and-forth or retroaction strategy. _Slave_ level(s)  can help improving the _master_ one in terms of spatial, temporal, semantic information. This can be cast into the _lifecycle data assessment_ or _critical analysis of the sources_ paradigms.
 
-## Main data sources
-dsds
-## Current interactions
-dsds
-## Which lines of research ?
+## which situation today ?
+We evaluated the current level of interactions between data sources here. One may have first a look on how we categorized such sources here.
 
 ### :arrow_up: Extending AI models
 
@@ -70,6 +67,5 @@ with scientific outsiders from distant disciplines. _Nature Communications_, 14,
 * Stammler-Gossmann, A., 2024. Knowledge exchange in the arctic environmental studies: Bridging science and the
 local community in dialogue. _Polar Science_, 41, 101103.
 
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
 
 
