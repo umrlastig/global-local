@@ -20,7 +20,7 @@ Such exploitation depends on the application and the domain the contributors fal
 **2. Limited two-way interactions.**
 Few initiatives adopt a back-and-forth or retroaction strategy. _Slave_ level(s)  can help improving the _master_ one in terms of spatial, temporal, semantic information. This can be cast into the _lifecycle data assessment_ or _critical analysis of the sources_ paradigms.
 
-## which situation today ?
+## Which situation today ?
 We evaluated the current level of interactions between data sources here. One may have first a look on how we categorized such sources here.
 
 ### :arrow_up: Extending AI models
